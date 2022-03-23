@@ -13,7 +13,7 @@
 * 	When the cursor hovers over an individual name, that name should smoothly transition to #212121 and increase in size by about 20%         without causing the other names to shift their position.  When the cursor is no longer hovering over that name, that name should           smoothly transition back to its original color and size.
 
 **Other requirements:**
-* 	Create the new application with your choice of front-end framework (e.g. Angular.js, Angular, Vue.js, etc.).
+* 	Create the new application with your choice of front-end framework (e.g. Angular.js, Angular, React, Vue, Svelte, etc.).
 * 	Use “vanilla” JavaScript to build the list of team members – do not leverage an external library such as or lodash.js.
 * 	Upload all files and instructions for building the project (if necessary) to GitHub and provide a link to us for review.
 
